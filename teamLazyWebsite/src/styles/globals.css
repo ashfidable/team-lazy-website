@@ -1,0 +1,24 @@
+:root {
+    --accent-color-500: hsl(339, 97%, 47%);
+    --accent-color-400: hsl(339, 97%, 57%);
+    --accent-color-300: hsl(339, 97%, 67%);
+    --accent-color-200: hsl(339, 97%, 77%);
+    --accent-color-100: hsl(339, 97%, 87%);
+    --accent-color-50: hsl(339, 97%, 97%); /* This might not be needed */
+    --primary-color-900: hsl(0, 0%, 0%);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+html, body {
+    height: 100vh;
+}
