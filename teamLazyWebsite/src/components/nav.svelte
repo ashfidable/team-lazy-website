@@ -12,11 +12,8 @@
 			<li class="contact"><a href="#"><span>About</span></a></li> -->
 			<div><SkewButton color="#261d1d"><a href="#"><span>Home</span></a></SkewButton></div>
 			<div><SkewButton color="#261d1d"><a href="#"><span>Home</span></a></SkewButton></div>
-
 			<div><SkewButton color="#261d1d"><a href="#"><span>Home</span></a></SkewButton></div>
-
 			<div><SkewButton color="#261d1d"><a href="#"><span>Home</span></a></SkewButton></div>
-
 			<div><SkewButton color="#261d1d"><a href="#"><span>Home</span></a></SkewButton></div>
 		</ul>
 	</nav>
