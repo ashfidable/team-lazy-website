@@ -1,6 +1,6 @@
 <script lang="ts">
 	export let color: string;
-	export let href: string;
+	export let href: string = "/";
 </script>
 
 <a style:--bg-clr={color} {href}>

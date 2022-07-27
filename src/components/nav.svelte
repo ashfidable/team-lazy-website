@@ -7,19 +7,19 @@
 		<h1><a href="/">Logo</a></h1>
 		<ul>
 			<div>
-				<SkewLink color="#261d1d">Home</SkewLink>
+				<SkewLink color="#261d1d" href="/">Home</SkewLink>
 			</div>
 			<div>
-				<SkewLink color="#261d1d">Home</SkewLink>
+				<SkewLink color="#261d1d" href="/">Home</SkewLink>
 			</div>
 			<div>
-				<SkewLink color="#261d1d">Home</SkewLink>
+				<SkewLink color="#261d1d" href="/">Home</SkewLink>
 			</div>
 			<div>
-				<SkewLink color="#261d1d">Home</SkewLink>
+				<SkewLink color="#261d1d" href="/">Home</SkewLink>
 			</div>
 			<div>
-				<SkewLink color="#261d1d">Home</SkewLink>
+				<SkewLink color="#261d1d" href="/">Home</SkewLink>
 			</div>
 		</ul>
 	</nav>
