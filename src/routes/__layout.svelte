@@ -1,13 +1,11 @@
 <script lang="ts">
 	import Nav from '@components/nav.svelte';
-	import SkewButton from '@components/SkewButton.svelte';
 	import '../../src/styles/globals.css';
 </script>
 
 <div class="container">
 	<Nav />
 	<slot />
-	<SkewButton />
 </div>
 
 <style>
