@@ -1,5 +1,5 @@
 <script>
-	import SkewButton from './SkewButton.svelte';
+	import SkewButton from '@components/SkewButton.svelte';
 </script>
 
 <header class="group">

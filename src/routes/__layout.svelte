@@ -1,6 +1,6 @@
 <script lang="ts">
-	import Nav from '../../src/components/nav.svelte';
-	import SkewButton from '../../src/components/SkewButton.svelte';
+	import Nav from '@components/nav.svelte';
+	import SkewButton from '@components/SkewButton.svelte';
 	import '../../src/styles/globals.css';
 </script>
 
