@@ -6,6 +6,7 @@
     --accent-color-100: hsl(339, 97%, 87%);
     --accent-color-50: hsl(339, 97%, 97%); /* This might not be needed */
     --primary-color-900: hsl(0, 0%, 0%);
+    --primary-color-800: hsl(0, 0%, 10%);
 }
 
 * {
@@ -20,5 +21,9 @@ a {
 }
 
 html, body {
-    height: 100vh;
+    height: 150vh;
+}
+
+html {
+    background-color: var(--primary-color-900)
 }

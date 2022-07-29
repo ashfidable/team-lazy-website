@@ -1,8 +1,11 @@
-<script>
-	export let color;
+<script lang="ts">
+	export let color: string;
+	export let href: string = "/";
 </script>
 
-<a style:--bg-clr={color}><slot /></a>
+<a style:--bg-clr={color} {href}>
+	<slot />
+</a>
 
 <style>
 	a {
@@ -14,6 +17,7 @@
 		background-color: transparent;
 		padding: 0.9rem 2rem;
 		isolation: isolate;
+		cursor: pointer;
 		/* z-index: 1; */
 	}
 
